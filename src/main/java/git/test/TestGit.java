@@ -5,7 +5,7 @@ package git.test;
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("commit1-测试冲突1");
+        System.out.println("commit1-冲突1-测试冲突2");
         System.out.println("commit2");
     }
 }
