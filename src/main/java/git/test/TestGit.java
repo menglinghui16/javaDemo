@@ -6,6 +6,7 @@ package git.test;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("commit1-冲突33");
+        System.out.println("commit2-22");
         System.out.println("commit2-测试conflict33");
         System.out.println("commit3");
     }
