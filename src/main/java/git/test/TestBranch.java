@@ -6,5 +6,6 @@ package git.test;
 public class TestBranch {
     public static void main(String[] args) {
         System.out.println("测试新的分支branch使用");
+        System.out.println("dev分支使用学习-创建");
     }
 }
