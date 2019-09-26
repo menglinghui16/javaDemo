@@ -12,4 +12,10 @@ public class TestGit {
 
         System.out.println("commit001");
     }
+
+    @Override
+    public String toString() {
+        System.out.println("commit003");
+        return super.toString();
+    }
 }
