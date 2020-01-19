@@ -9,5 +9,13 @@ public class TestGit {
         System.out.println("commit2-22");
         System.out.println("commit2-测试conflict33");
         System.out.println("commit3");
+
+        System.out.println("commit001");
+    }
+
+    @Override
+    public String toString() {
+        System.out.println("commit003");
+        return super.toString();
     }
 }
