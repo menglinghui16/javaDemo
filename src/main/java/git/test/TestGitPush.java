@@ -6,5 +6,6 @@ package git.test;
 public class TestGitPush {
     public static void main(String[] args) {
         System.out.println("commit002");
+        System.out.println("测试提交代码");
     }
 }
