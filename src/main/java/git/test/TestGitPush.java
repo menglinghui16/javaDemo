@@ -8,5 +8,6 @@ public class TestGitPush {
         System.out.println("commit002");
         System.out.println("测试提交代码");
         System.out.println("测试一下rebase current onto selected");
+        System.out.println("dev分支拉去master分支上的最新的代码");
     }
 }
